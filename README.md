@@ -3,7 +3,7 @@
 
 #### Members:
    - Park Young-woong(팀장) 
-   - Mun Ha-neul
+   - Moon Ha-neul
    - Song Dong-hyeon
 
 ### 공모전 내용
